@@ -1,4 +1,13 @@
-theme: jekyll-theme-minimal
-
 title: Adina Shaikh
-description: Mechanical Engineer
+logo: "/8aa40cf23854f6bb90d52e604bee4bb25c5fe274.jpg"
+description: >
+  <br>
+  Mechanical Engineer | Gold Medalist
+  <br>
+  <a href="https://www.linkedin.com/in/adeena-shykh2/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:adeena.shykh1@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+theme: jekyll-theme-minimal
